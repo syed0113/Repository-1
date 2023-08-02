@@ -5,6 +5,5 @@ class Message
 		System.out.println("Hello All");
 		System.out.println("Good Morning");
 		System.out.println("Thank you");
-		System.out.println("Good Bye");
 	}
 }
