@@ -13,6 +13,6 @@ class Addition
 		res=numeber1*number2;
 		System.out.println("The result of product is : "+res);
 		res=numeber1-number2;
-		System.out.println("The result of subtraction is : "+res);		
+				
 	}
 }
