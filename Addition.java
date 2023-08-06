@@ -13,6 +13,10 @@ class Addition
 		res=numeber1*number2;
 		System.out.println("The result of product is : "+res);
 		res=numeber1-number2;
-				
+		Syetem.out.println("commit1")
+		Syetem.out.println("commit2")
+		Syetem.out.println("commit3")
+		System.outprintln("commit4")
+		System.out.println("commit5")				
 	}
 }
