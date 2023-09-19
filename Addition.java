@@ -10,7 +10,7 @@ class Addition
 		number2=s.nextInt();
 		res=number1+number2;
 		System.out.println("The result is "+res);
-		res=numeber1*number2;
+		res=num1*num2;
 		System.out.println("The result of product is : "+res);
 		res=numeber1-number2;
 		Syetem.out.println("commit1")
